@@ -1,0 +1,6 @@
+{
+  "name": "live-preview",
+  "version": "0.2.0",
+  "description": "Website-Vorschau als Panel im Terminal: Element anklicken, und Claude bekommt Code und Fundstelle mit der nächsten Nachricht.",
+  "types": "./types/index.d.ts"
+}

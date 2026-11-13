@@ -1,0 +1,5 @@
+{
+  "name": "live-preview",
+  "owner": { "name": "OliveiraCodeing" },
+  "plugins": [{ "name": "live-preview", "source": "./" }]
+}
