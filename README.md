@@ -41,3 +41,7 @@ In der Desktop-App (dort läuft `/plugin` nicht): auf + neben dem Eingabefeld kl
 | `/vorschau aus` | Vorschau schließen |
 
 Im Panel: Linksklick bedient die Seite, Rechtsklick wählt ein Element aus, Mausrad scrollt, die px-Schaltfläche wechselt die Zoomstufe, ↻ lädt neu.
+
+## Lizenz
+
+MIT, siehe [LICENSE](LICENSE).
